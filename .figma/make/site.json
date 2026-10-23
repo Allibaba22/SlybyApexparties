@@ -1,0 +1,14 @@
+{
+  "description": "SLY by ApexParties — a social deduction party game for friends.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  },
+  "title": "SLY by Apex Parties",
+  "icons": {
+    "icon": "/favicon.svg"
+  }
+}
